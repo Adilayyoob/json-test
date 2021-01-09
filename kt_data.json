@@ -2,7 +2,7 @@
 	{
 		"rollNo": 1,
 		"name": "MUHAMMED K T",
-		"DateOfBirth": ["not found","not found","not found"],
+		"DateOfBirth": [0000,00,00],
 		"phoneNumber": 9447883337,
 		"email": "not found",
 		"address": "KANNANKOTUTHADAYIL(H) KARUVANPOYIL  KODUVALLY KERALA 673572",
@@ -13,7 +13,7 @@
 	{
 		"rollNo": 2,
 		"name": "KADEEJA K T",
-		"DateOfBirth": ["not found","not found","not found"],
+		"DateOfBirth": [0000,00,00],
 		"phoneNumber": 0,
 		"email": "not found",
 		"address": "KANNANKOTUTHADAYIL(H) KARUVANPOYIL  KODUVALLY KERALA 673572",
@@ -24,7 +24,7 @@
 	{
 		"rollNo": 3,
 		"name": "SHUKOOR K T",
-		"DateOfBirth": ["1969","08","17"],
+		"DateOfBirth": [1969,08,17],
 		"phoneNumber": 7592057862,
 		"email": "not found",
 		"address": "PURAYIL(H) KARUVANPOYIL  KODUVALLY KERALA 673572",
