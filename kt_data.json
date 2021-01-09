@@ -24,7 +24,7 @@
 	{
 		"rollNo": 3,
 		"name": "SHUKOOR K T",
-		"DateOfBirth": [1969,08,17],
+		"DateOfBirth": ["1969","08","17"],
 		"phoneNumber": 7592057862,
 		"email": "not found",
 		"address": "PURAYIL(H) KARUVANPOYIL  KODUVALLY KERALA 673572",
