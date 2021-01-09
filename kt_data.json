@@ -1,0 +1,35 @@
+[
+	{
+		"rollNo": 1,
+		"name": "MUHAMMED K T",
+		"DateOfBirth": null,
+		"phoneNumber": 9447883337,
+		"email": null,
+		"address": "KANNANKOTUTHADAYIL(H) KARUVANPOYIL  KODUVALLY KERALA 673572",
+		"mName": null,
+		"fName": null,
+		"spouseName": "KADEEJA K T"
+	},
+	{
+		"rollNo": 2,
+		"name": "KADEEJA K T",
+		"DateOfBirth": null,
+		"phoneNumber": null,
+		"email": null,
+		"address": "KANNANKOTUTHADAYIL(H) KARUVANPOYIL  KODUVALLY KERALA 673572",
+		"mName": null,
+		"fName": null,
+		"spouseName": "MUHAMMED K T"
+	},
+	{
+		"rollNo": 3,
+		"name": "SHUKOOR K T",
+		"DateOfBirth": [1969,08,17],
+		"phoneNumber": 7592057862,
+		"email": null,
+		"address": "PURAYIL(H) KARUVANPOYIL  KODUVALLY KERALA 673572",
+		"mName": "KADEEJA K T",
+		"fName": "MUHAMMED K T",
+		"spouseName": "VAHEEDA"
+	}
+]
